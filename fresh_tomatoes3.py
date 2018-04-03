@@ -145,8 +145,6 @@ main_page_content = '''
     </div>
     <div class="container">
         {movie_tiles}
-    </div>
-    <div class="container">
         {tv_tiles}
     </div>
   </body>
