@@ -46,7 +46,6 @@ walking_dead = media.TV_Show("The Walking dead",
                         "25m",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMzNkMWNmZGUtNWFlZi00MTYwLWIwMjQtOGViN2QzNmI2MWYwXkEyXkFqcGdeQXVyODA1MDc5NjM@._V1_UY268_CR0,0,182,268_AL_.jpg",
                         "'The Zombies are stupid' - Ian Walker : 2017",
-                        ["3", "9"],
                         "http://www.radiotimes.com/tv-programme/2yh/the-walking-dead/")
 
 
@@ -56,4 +55,3 @@ tv_shows = [walking_dead]
 
 fresh_tomatoes3.open_movies_page(movies, tv_shows)
 
-#print media.Movie.__doc__
