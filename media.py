@@ -77,7 +77,6 @@ class TV_Show(Video):
     
     """
     
-    
     def __init__(self, title_name, title_duration, poster_image, tv_review, tv_listing_url):
         """Init class constructor.
         
