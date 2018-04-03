@@ -4,8 +4,7 @@ Exploration of computer programming with a focus on film
 
 ### Current functionality 
 
-
-### Future functionality 
+### Future functionality
 
 - Store movie reviews 
 - Present either the trailer or the review when prompted by user inputs against a given film / tv show 
